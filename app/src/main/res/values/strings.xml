@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PianoKeyboard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Prompts Layout texts -->
+    <string name="tv_acoustic">Acoustic</string>
+    <string name="tv_syntez">Synthesis</string>
+    <string name="tv_music_box">MusicBox</string>
+    <string name="tv_xylophone">Xylophone</string>
+    <string name="tv_saxophone">Saxophone</string>
+    <string name="tv_menu_caption">Keyboard</string>
+    <string name="tv_visible_keys">Visible Keys : </string>
+
+    <string name="textOn">ON</string>
+    <string name="textOff">OFF</string>
+
+    <!--Message-->
+    <string name="mt_show">Caller did not enable length changes; not transforming text</string>
+
+
+</resources>

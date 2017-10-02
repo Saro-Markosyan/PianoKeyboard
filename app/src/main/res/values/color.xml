@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <!--<color name="sharpe">#191d1e</color>-->
+    <!--<color name="sharpe">#1b2020</color>
+    <color name="sharp">#191d1e</color>-->
+    <!--<color name="transparent">#33000000</color>-->
+    <color name="sharpe">#1b2020</color>
+    <color name="sharp">#161616</color>
+    <color name="transparent">#60000000</color>
+    <!--<color name="header">#0d0d0d</color>-->
+    <color name="header">#000</color>
+    <!--<color name="header">#ff0000</color>-->
+
+    <color name="white_transparent_black">#22000000</color>
+    <color name="menu_divider">#6ab0e8</color>
+    <color name="border_color">#c7c7cc</color>
+
+
+</resources>

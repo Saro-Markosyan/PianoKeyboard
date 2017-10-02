@@ -1,0 +1,134 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="size_m_2">-2dp</dimen>
+    <dimen name="size_m_3">-3dp</dimen>
+    <dimen name="size_m_3_3">-3.3dp</dimen>
+    <dimen name="size_m_4">-4dp</dimen>
+    <dimen name="size_m_5">-5dp</dimen>
+    <dimen name="size_m_6">-6dp</dimen>
+    <dimen name="size_m_7_5">-7.5dp</dimen>
+    <dimen name="size_m_10">-10dp</dimen>
+    <dimen name="size_m_10_5">-10.5dp</dimen>
+
+    <!--  Home Layout sizes -->
+    <dimen name="size_380">380dp</dimen>
+    <dimen name="size_361">361dp</dimen>
+    <dimen name="size_280">240dp</dimen>
+    <dimen name="size_240">220dp</dimen>
+    <dimen name="size_220">280dp</dimen>
+    <dimen name="size_200">200dp</dimen>
+    <dimen name="size_195">195dp</dimen>
+    <dimen name="size_190">190dp</dimen>
+    <dimen name="size_184">184dp</dimen>
+    <dimen name="size_180">180dp</dimen>
+    <dimen name="size_175">175dp</dimen>
+    <dimen name="size_160">160dp</dimen>
+    <dimen name="size_153">153dp</dimen>
+    <dimen name="size_150">150dp</dimen>
+    <dimen name="size_140">140dp</dimen>
+    <dimen name="size_131_5">131.5dp</dimen>
+    <dimen name="size_135">135dp</dimen>
+    <dimen name="size_130">130dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+    <dimen name="size_114">114dp</dimen>
+    <dimen name="size_110">110dp</dimen>
+    <dimen name="size_105">105dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="size_95">95dp</dimen>
+    <dimen name="size_93">93dp</dimen>
+    <dimen name="size_90">90dp</dimen>
+    <dimen name="size_80">80dp</dimen>
+    <dimen name="size_85">85dp</dimen>
+    <dimen name="size_75">75dp</dimen>
+    <dimen name="size_70">70dp</dimen>
+    <dimen name="size_66">66dp</dimen>
+    <dimen name="size_65">65dp</dimen>
+    <dimen name="size_64">64dp</dimen>
+    <dimen name="size_62">62dp</dimen>
+    <dimen name="size_60">60dp</dimen>
+    <dimen name="size_59">59dp</dimen>
+    <dimen name="size_55">55dp</dimen>
+    <dimen name="size_53">53dp</dimen>
+    <dimen name="size_50">50dp</dimen>
+    <dimen name="size_47">47dp</dimen>
+    <dimen name="size_45">45dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size_35">35dp</dimen>
+    <dimen name="size_34_5">34.5dp</dimen>
+    <dimen name="size_34">34dp</dimen>
+    <dimen name="size_30">30dp</dimen>
+    <dimen name="size_26.25">26.25dp</dimen>
+    <dimen name="size_27">27dp</dimen>
+    <dimen name="size_25">25dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_21">21dp</dimen>
+    <dimen name="size_19_5">19.5dp</dimen>
+    <dimen name="size_18">18dp</dimen>
+    <dimen name="size_17_5">17.5dp</dimen>
+    <dimen name="size_15">15dp</dimen>
+    <dimen name="size_16">15dp</dimen>
+    <dimen name="size_14">14dp</dimen>
+    <dimen name="size_12">12dp</dimen>
+    <dimen name="size_12_5">12.5dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_9">9dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_7_5">7.5dp</dimen>
+    <dimen name="size_7">7dp</dimen>
+    <dimen name="size_6">6dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_3">3dp</dimen>
+    <dimen name="size_2_5">2.5dp</dimen>
+    <dimen name="size_2">2dp</dimen>
+    <dimen name="size_1">1dp</dimen>
+
+
+    <dimen name="fontSize_41">41sp</dimen>
+    <dimen name="fontSize_40">40sp</dimen>
+    <dimen name="fontSize_30">30sp</dimen>
+    <dimen name="fontSize_28">28sp</dimen>
+    <dimen name="fontSize_24">24sp</dimen>
+    <dimen name="fontSize_22">22sp</dimen>
+    <dimen name="fontSize_20">20sp</dimen>
+    <dimen name="fontSize_19">19sp</dimen>
+    <dimen name="fontSize_18">18sp</dimen>
+    <dimen name="fontSize_17">17sp</dimen>
+    <dimen name="fontSize_16">16sp</dimen>
+    <dimen name="fontSize_15">15sp</dimen>
+    <dimen name="fontSize_14">14sp</dimen>
+    <dimen name="fontSize_13">13sp</dimen>
+    <dimen name="fontSize_12">12sp</dimen>
+    <dimen name="fontSize_11">11sp</dimen>
+    <dimen name="fontSize_4">4sp</dimen>
+
+    <dimen name="width_pitch">62dp</dimen>
+    <dimen name="height_pitch">200dp</dimen>
+    <dimen name="width_sharp">42dp</dimen>
+    <dimen name="height_sharp">120dp</dimen>
+
+    <dimen name="move_buttons_height">40dp</dimen>
+    <dimen name="move_buttons_width">40dp</dimen>
+    <dimen name="header_icon_height">25dp</dimen>
+    <dimen name="header_icon_width">25dp</dimen>
+    <dimen name="fl_seek_bar_height">45dp</dimen>
+    <dimen name="fl_seek_bar_width">310dp</dimen>
+    <dimen name="rounded_rectangle_width">300dp</dimen>
+    <dimen name="rounded_rectangle_height">48dp</dimen>
+    <dimen name="seek_bar_height">35dp</dimen>
+    <dimen name="seek_bar_width">300dp</dimen>
+    <dimen name="seek_bar_e_height">40dp</dimen>
+    <dimen name="seek_bar_e_width">260dp</dimen>
+    <dimen name="iv_seek_bar">40dp</dimen>
+
+    <dimen name="ib_common_instrument_w">50dp</dimen>
+    <dimen name="ib_common_instrument_h">50dp</dimen>
+
+
+
+    <!--<dimen name="v_white_width">80dp</dimen>-->
+</resources>
